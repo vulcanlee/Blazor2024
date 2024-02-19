@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{F1AF3BBF-CA53-403F-9656-422F036B661E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Advance", "Advance", "{7B79547E-8527-4BC8-AD2F-9D12970D6C88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BZ01 用 Input 來實作出模擬 Auto Completion 功能", "BZ01 用 Input 來實作出模擬 Auto Completion 功能", "{AEE66707-2CBC-413F-BBF4-83B937598196}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Starter", "Starter", "{7EC36939-7445-4E63-9CC9-215934A2B62A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Finish", "Finish", "{5F17759B-6B11-40F8-A902-20CCF0D255FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BZ01", "BZ01\Starter\BZ01\BZ01.csproj", "{F2398620-FFB5-4CA6-B20A-7F0809742FE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BZ01", "BZ01\Finish\BZ01\BZ01.csproj", "{5C950FD2-D31F-4C88-95B8-6A282D2C02B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2398620-FFB5-4CA6-B20A-7F0809742FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2398620-FFB5-4CA6-B20A-7F0809742FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2398620-FFB5-4CA6-B20A-7F0809742FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2398620-FFB5-4CA6-B20A-7F0809742FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C950FD2-D31F-4C88-95B8-6A282D2C02B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C950FD2-D31F-4C88-95B8-6A282D2C02B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C950FD2-D31F-4C88-95B8-6A282D2C02B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C950FD2-D31F-4C88-95B8-6A282D2C02B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AEE66707-2CBC-413F-BBF4-83B937598196} = {F1AF3BBF-CA53-403F-9656-422F036B661E}
+		{7EC36939-7445-4E63-9CC9-215934A2B62A} = {AEE66707-2CBC-413F-BBF4-83B937598196}
+		{5F17759B-6B11-40F8-A902-20CCF0D255FF} = {AEE66707-2CBC-413F-BBF4-83B937598196}
+		{F2398620-FFB5-4CA6-B20A-7F0809742FE6} = {7EC36939-7445-4E63-9CC9-215934A2B62A}
+		{5C950FD2-D31F-4C88-95B8-6A282D2C02B9} = {5F17759B-6B11-40F8-A902-20CCF0D255FF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF3629AE-2836-4830-BBF0-300E16CDF0E2}
+	EndGlobalSection
+EndGlobal

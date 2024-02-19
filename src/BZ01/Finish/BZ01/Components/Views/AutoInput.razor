@@ -1,0 +1,20 @@
+﻿<div class="mt-3">
+    <input @bind-value="text" @bind-value:event="oninput"
+           @bind-value:after="Search" class="form-control" />
+</div>
+
+<p>@text</p>
+<p>@result</p>
+
+
+@code {
+    string text = string.Empty;
+    string result = string.Empty;
+
+    async Task Search()
+    {
+        result = "Searching...";
+        await Task.Delay(2000);
+            result = $"Found {Random.Shared.Next()} Records";
+    }
+}
