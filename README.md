@@ -1,23 +1,22 @@
 # Blazor Hands-on Workshop
 
-
 |專案名稱|專案說明|備註|
 |-|-|-|
 |BZ01|用 Input 來實作出模擬 Auto Completion 功能||
-|BZ02|||
-|BZ03|||
-|BZ04|||
-|BZ05|||
-|BZ06|||
-|BZ07|||
-|BZ08|||
-|BZ09|||
-|BZ10|||
-|BZ11|||
-|BZ12|||
-|BZ13|||
-|BZ14|||
-|BZ15|||
+|BZ02|ASP.NET Core 的相依性注入 Dependency Injection 註冊、解析、釋放 使用說明||
+|BZ03|ASP.NET Core 的設定 Configuration 應用說明||
+|BZ04|ASP.NET Core 的日誌 Logger 使用說明||
+|BZ05|Blazor 範例元件所提供開發方式說明||
+|BZ06|Blazor Razor 元件 Component 基本概念與應具備知識||
+|BZ07|關於 Razor 前置詞 Directive||
+|BZ08|建立第一個 Razor 元件||
+|BZ09|元件間的資料傳遞 - 參數||
+|BZ10|元件間的資料傳遞 - 事件回呼 callback||
+|BZ11|元件間的資料傳遞 - 串聯參數與值 Cascading Parameter||
+|BZ12|在元件內應用資料綁定的用法||
+|BZ13|元件的生命週期與 Dispose 事件||
+|BZ14|CSS 樣式 - Isolated 隔離、全域、內置 Inline、內嵌 Embedding||
+|BZ15|Razor 元件之商業邏輯程式碼設計做法 - 內置 Inline、Code Behind、ViewModel||
 |BZ16|||
 |BZ17|||
 |BZ18|||
