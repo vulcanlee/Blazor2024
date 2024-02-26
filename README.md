@@ -18,7 +18,7 @@
 |BZ14||CSS 樣式 - Isolated 隔離、全域、內置 Inline、內嵌 Embedding||
 |BZ15||Razor 元件之商業邏輯程式碼設計做法 - 內置 Inline、Code Behind、ViewModel||
 |BZ16|B100|Blazor 各種渲染專案範本結構|靜態伺服器 Static server-side rendering (static SSR)、互動式伺服器 Interactive server-side rendering (interactive SSR) using Blazor Server、互動式 WebAssembly Client-side rendering (CSR) using Blazor WebAssembly、互動式自動	 Interactive Auto - Interactive SSR using Blazor Server initially and then CSR on subsequent visits after the Blazor bundle is downloaded.|
-|BZ17||||
+|BZ17|B100|靜態網頁 – 使用 ASP.NET Core 建立||
 |BZ18||||
 |BZ19||||
 |BZ20||||

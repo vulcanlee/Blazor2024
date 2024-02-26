@@ -1,0 +1,19 @@
+﻿body {
+    font-size: 32px
+}
+
+p {
+    font-weight: bold
+}
+
+span {
+    color: red
+}
+
+p span {
+    display: none
+}
+
+img {
+    float: left
+}
